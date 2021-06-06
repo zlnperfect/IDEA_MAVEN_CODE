@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="XXX 项目">
+    <test verbose="2" preserve-order="true" name="用户模块/接口">
+        <classes>
+            <class name="com.java.testng.TestNGTestAnnotation"/>
+            <class name="com.java.testng.TestNGTestAnnotation1"/>
+        </classes>
+    </test>
+    <test name="订单模块">
+        <classes>
+            <class name="com.java.testng.TestNGTestAnnotation2"/>
+        </classes>
+    </test>
+</suite>
