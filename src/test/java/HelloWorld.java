@@ -11,4 +11,8 @@ public class HelloWorld {
     public void test_a(){
         System.out.println("开发人员a 提交了新的代码，并且提交到远程仓库种");
     }
+
+    public void test_b(){
+        System.out.println("开发人员b 新开发的方法，并且提交到远程仓库中去");
+    }
 }
